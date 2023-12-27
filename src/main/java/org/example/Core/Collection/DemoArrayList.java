@@ -10,6 +10,7 @@ public class DemoArrayList {
         al.add(new Student(2, "John"));
         al.add(new Student(3, "Smith"));
         al.add(new Student(4, "Rani"));
+        al.add(new Student(5, "Manjit"));
 
         /*for ( Student s : al){
             System.out.println(s.toString());
