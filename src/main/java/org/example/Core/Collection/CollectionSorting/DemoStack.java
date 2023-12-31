@@ -1,4 +1,4 @@
-package org.example.Core.Collection;
+package org.example.Core.Collection.CollectionSorting;
 
 import java.util.Stack;
 
